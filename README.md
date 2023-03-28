@@ -27,7 +27,7 @@ For Tomcat Application Server
 
 Use Tomcat 8.5.23 or above and compile to generate WAR file.
 Contributing
-If you want to contribute to this project you can email me - trhoangthuan@gmail.com or you can pull request.
+If you want to contribute to this project you can email me - vantuyen24032001@gmail.com or you can pull request.
 
 Built With
 Java - Oracle Java 1.8 JDK
